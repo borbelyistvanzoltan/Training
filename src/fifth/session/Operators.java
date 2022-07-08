@@ -1,4 +1,4 @@
-package FifthSession;
+package fifth.session;
 
 public class Operators {
     public static void main(String args[]) {

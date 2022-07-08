@@ -1,4 +1,4 @@
-package FourthSession.Variables;
+package fourth.session.Variables;
 
 public class A {
 

@@ -1,4 +1,4 @@
-package ThirdSession;
+package third.session;
 
 public class HelloWorld {
     public static void main(String args[]){

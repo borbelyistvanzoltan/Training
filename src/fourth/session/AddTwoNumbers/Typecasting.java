@@ -1,4 +1,4 @@
-package FourthSession.AddTwoNumbers;
+package fourth.session.AddTwoNumbers;
 
 public class Typecasting {
     public static void main(String[] args){

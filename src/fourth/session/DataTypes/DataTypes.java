@@ -1,4 +1,4 @@
-package FourthSession.DataTypes;
+package fourth.session.DataTypes;
 
 public class DataTypes {
 

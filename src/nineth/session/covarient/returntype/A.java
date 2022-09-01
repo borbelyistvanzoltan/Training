@@ -4,10 +4,6 @@ class A {
     A get() {
         return this;
     }
-
-    void message() {
-        System.out.println("A: message method");
-    }
 }
 
 class B extends A {
@@ -21,7 +17,6 @@ class B extends A {
     }
 
     public static void main(String args[]) {
-        new A().get().message();
         new B().get().message();
     }
 }

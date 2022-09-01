@@ -1,6 +1,6 @@
 package nineth.session.method.overriding;
 
-class Vehicle{
+class Vehicle {
     //defining a method
     void run() {
         System.out.println("Vehicle is running");

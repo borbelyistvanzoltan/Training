@@ -5,13 +5,13 @@ class No2Multiple {
 
         System.out.println("Adj meg egy egesz szamot: ");
         Scanner sc = new Scanner(System.in);
-        int number =Integer.parseInt(sc.nextLine());
+        int number = Integer.parseInt(sc.nextLine());
 
-        if((number%5==0)&&(number%7==0)){
-            System.out.println(number+" az 5-el es 7-el is oszthato");
+        if((number % 5 == 0) && (number % 7 == 0)) {
+            System.out.println(number + " az 5-el es 7-el is oszthato");
         }
-        else{
-            System.out.println(number+" nem oszthato 5-el es 7-el");
+        else {
+            System.out.println(number + " szam nem oszthato 5-el es 7-el");
         }
     }
 }
